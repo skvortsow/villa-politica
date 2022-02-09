@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Candara";
+    src:
+            url("/villa-politica/Candara.woff") format("woff"),
+            url("/villa-politica/Candara.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
