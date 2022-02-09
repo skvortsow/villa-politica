@@ -37,7 +37,7 @@
 @font-face {
     font-family: "Baskerville";
     src:
-            url("/villa-politica/Baskerville.woff") format("woff");
+            url("/villa-politica/Baskerville.woff") format("woff"),
             url("/villa-politica/Baskerville.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
